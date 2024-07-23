@@ -5,3 +5,4 @@ scipy
 jupyter
 opencv-python
 scikit-learn
+redis
