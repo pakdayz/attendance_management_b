@@ -8,3 +8,4 @@ scikit-learn
 redis
 streamlit
 insightface
+pillow
