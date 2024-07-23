@@ -19,3 +19,4 @@ mycolorpy
 plotly
 plotly-express
 mmcv-full --no-binary mmcv-full
+onnxruntime==1.15.0
