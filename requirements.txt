@@ -6,3 +6,4 @@ jupyter
 opencv-python
 scikit-learn
 redis
+streamlit
