@@ -17,4 +17,4 @@ Cython
 jinja2
 IPython
 bs4
-tzdata
+
