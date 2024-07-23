@@ -9,3 +9,12 @@ redis
 streamlit
 insightface
 pillow
+pytz
+dateulil
+setuptools
+pip
+Cython
+jinja2
+IPython
+bs4
+tzdata
