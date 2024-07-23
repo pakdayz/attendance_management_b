@@ -7,3 +7,4 @@ opencv-python
 scikit-learn
 redis
 streamlit
+insightface
