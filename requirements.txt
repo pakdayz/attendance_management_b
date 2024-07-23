@@ -9,9 +9,6 @@ redis
 streamlit
 insightface
 pillow
-pytz
-dateulil
-setuptools
 pip
 Cython
 jinja2
